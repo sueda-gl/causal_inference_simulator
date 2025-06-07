@@ -121,10 +121,10 @@ class CausalDataGenerator:
             profile = BrandProfile(
                 brand_id=i,
                 brand_name=name,
-                brand_size=brand_size,
-                innovation_score=innovation_score,
-                market_segment=market_segment,
-                base_visibility=base_visibility,
+                brand_size=str(brand_size),
+                innovation_score=float(innovation_score),
+                market_segment=str(market_segment),
+                base_visibility=float(base_visibility),
             )
             
             profiles.append(profile.dict())

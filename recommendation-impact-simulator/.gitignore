@@ -46,11 +46,7 @@ htmlcov/
 *.log
 logs/
 
-# Data
-data/
-*.csv
-*.parquet
-*.pkl
+
 
 # Environment
 .env
