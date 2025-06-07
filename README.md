@@ -303,43 +303,4 @@ python -m pytest tests/  # If tests are available
 streamlit run app.py
 ```
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **DoWhy**: Microsoft's causal inference library
-- **EconML**: Microsoft's machine learning library for causal inference
-- **Streamlit**: For the excellent web app framework
-- **Plotly**: For interactive visualizations
-
-## 📞 Support
-
-For questions, issues, or contributions:
-
-1. **Check the Issues tab** for existing discussions
-2. **Create a new issue** with detailed description
-3. **Join the discussion** in existing issues
-4. **Submit pull requests** for improvements
-
-## 🔮 Roadmap
-
-### Upcoming Features
-- [ ] Real data connectors (Google Analytics, etc.)
-- [ ] Advanced visualization dashboard
-- [ ] A/B testing integration
-- [ ] API endpoints for programmatic access
-- [ ] Docker containerization
-- [ ] Cloud deployment templates
-
-### Enhancement Ideas
-- [ ] Machine learning model integration
-- [ ] Real-time data streaming
-- [ ] Multi-objective optimization
-- [ ] Advanced statistical tests
-- [ ] Export to business intelligence tools
-
----
-
-**Built with ❤️ for data-driven marketing decisions**
